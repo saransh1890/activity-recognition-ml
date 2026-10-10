@@ -1,0 +1,5 @@
+{
+    "model": "SVM (RBF kernel)",
+    "test_accuracy_percent": 96.2,
+    "training_time_seconds": 1.05
+}

@@ -1,0 +1,4 @@
+Model,Test Accuracy (%),Weighted F1 (%),Training Time (seconds)
+SVM (RBF),96.2,96.19,1.22
+Random Forest,92.57,92.55,0.98
+KNN (k=5),90.16,90.07,0.02
